@@ -1,0 +1,13 @@
+Team Members:
+1) Abdulaziz Almaslukh, 861083798, aalma021@ucr.edu
+2) Yuan Yao, 861242929, yyao009@ucr.edu
+
+Prerequisits:
+Install Clang and llvm
+
+How to run:
+We simply used "buildAndTest.sh".
+You should have the same structure as CS201Profiling under  ~/Workspace/llvm/lib/Transforms/.
+Then, cd to the above location. 
+Finally, run "./buildAndTest.sh test" // notice test is the input file which is located under CS201Profiling/Support.
+
